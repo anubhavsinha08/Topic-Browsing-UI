@@ -60,11 +60,15 @@ topic-browsing-ui/
 ---
 
 ##  Installation & Running the Project
-git clone https://github.com/<your-username>/topicsearch-catalogue.git
-cd topicsearch-catalogue
+git clone https://github.com/anubhavsinha08/Topic-Browsing-UI.git
+cd topic-browsing-ui
 
 ### Step 1: Install dependencies
 npm install
 
 ### Step 2: Start the development server
 npm run dev
+
+
+### Video Explaination
+https://drive.google.com/file/d/1ROmZ2iU3tt7DtXVw4Y4LbDr4sWqAid56/view?usp=sharing
